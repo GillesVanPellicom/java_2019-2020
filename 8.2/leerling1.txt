@@ -1,0 +1,8 @@
+Aardrijkskunde: 7
+Engels: 6
+Frans: 4
+Geschiedenis: 8
+LO: 7
+Nederlands: 6
+Wiskunde: 9
+Informatica: 8
